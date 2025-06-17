@@ -1,0 +1,3 @@
+Hello! This is a test file for encryption and decryption.
+It contains multiple lines of text to ensure our encryption tool works properly.
+Feel free to encrypt this file using any key of your choice!
